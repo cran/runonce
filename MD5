@@ -1,11 +1,11 @@
-af1e80c05ba0b40e1eae0527396c53de *DESCRIPTION
+356aeb4fde67bd2e31efc389eeb3e6f9 *DESCRIPTION
 5cc6f93ae4e2eb3f1bd7eb88aa61e01e *NAMESPACE
-cc610826764d5cfdcb8e4f8302e2982d *R/download-file.R
+0e82b1491401d53ea93a44f1ac3e2e12 *R/download-file.R
 16cd1d4bc42266cea8f6547be1c43844 *R/runonce-package.R
 4f79d37029abc2cb8a9d50f999505876 *R/save-run.R
 e657743bb657530400ae1046792b9aab *R/skip-run.R
 8102ca9a4f1afc82e1bc33016e1383c8 *README.md
-0c9702da50c27c50a6cc7fde65672cf1 *man/download_file.Rd
+e4ce231d1f3864476fc68984dffd1777 *man/download_file.Rd
 f855bf56e159e5054ae649b604fd40ad *man/runonce-package.Rd
 675ab9481bf870e8ac6f3013ab0f99c2 *man/save_run.Rd
 360824e29350fc25eb767bc0881b1b1b *man/skip_run_if.Rd
